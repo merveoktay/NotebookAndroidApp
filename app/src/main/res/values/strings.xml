@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="detail">Detail</string>
+    <string name="calender">Calender</string>
+    <string name="title">Title</string>
+</resources>
