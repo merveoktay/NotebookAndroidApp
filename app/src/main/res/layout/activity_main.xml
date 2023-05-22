@@ -87,7 +87,7 @@
 
     <ListView
         android:id="@+id/listViewNote"
-        android:layout_width="300dp"
+        android:layout_width="250dp"
         android:layout_height="350dp"
         android:background="@drawable/list"
         app:layout_constraintBottom_toBottomOf="parent"
